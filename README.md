@@ -2,7 +2,7 @@
 
 Parse any User Agent string to identify browser, rendering engine, operating system, OS version, and device type, with auto-detection of the current browser's UA, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/network-tools/user-agent-parser
+**Live Demo:** https://file-converter-free.com/en/network-tools/user-agent-parser-online
 
 ## How It Works
 
